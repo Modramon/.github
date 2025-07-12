@@ -36,8 +36,6 @@ This organization is the central hub for the core services that power the bot.
 | Repository                                                           | Description                                                                                                                                      | Tech Stack                      |
 | :------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------ |
 | 🤖 **[Modramon/yggdrasil](https://github.com/Modramon/yggdrasil)** | The **Discord Bot Client**. This is the high-performance Node.js app that connects to Discord, listens for commands, and makes the magic happen. | `Node.js` `Discord.js` `TypeScript` |
-| 🌐 **[durgarian/modramon-laravel](https://github.com/durgarian/modramon-laravel)** | The **Web Dashboard & API**. This is the brain of the operation, where users manage their server settings, view stats, and configure every aspect of the bot. | `Laravel` `Inertia.js` `Vue.js`     |
-
 ---
 
 ### 🛠️ Tech Stack
