@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/user-attachments/assets/1922998a-40a2-4820-a612-e568fdc9d311/Modramon-Logo.png" alt="Modramon Logo" width="250"/>
+<img src="[https://www.google.com/search?q=https://raw.githubusercontent.com/user-attachments/assets/1922998a-40a2-4820-a612-e568fdc9d311/Modramon-Logo.png](https://raw.githubusercontent.com/Modramon/.github/refs/heads/main/modramon_smile.png)" alt="Modramon Logo" width="250"/>
 </p>
 
 <h1 align="center">Welcome to the Modramon Project</h1>
@@ -8,17 +8,17 @@
 Building a powerful, open-source Discord bot that puts community first.
 <br />
 <br />
-<a href="https://www.google.com/search?q=https://github.com/durgarian/modramon-laravel/issues">Report a Bug</a>
+<a href="https://github.com/Modramon/yggdrasil/issues">Report a Bug</a>
 ·
-<a href="https://www.google.com/search?q=https://github.com/durgarian/modramon-laravel/issues">Request a Feature</a>
+<a href="https://github.com/Modramon/yggdrasil/issues">Request a Feature</a>
 ·
 <a href="#">Join our Discord (Coming Soon)</a>
 </p>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/status-in%2520development-blue%3Fstyle%3Dfor-the-badge" alt="Status" />
-<img src="https://www.google.com/search?q=https://img.shields.io/github/license/durgarian/modramon-laravel%3Fstyle%3Dfor-the-badge" alt="License" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/PRs-welcome-brightgreen%3Fstyle%3Dfor-the-badge" alt="PRs Welcome" />
+<img src="https://img.shields.io/badge/Status-online-008000" alt="Status" />
+<img src="https://img.shields.io/badge/License-MIT-8A2BE2" alt="License" />
+<img src="https://img.shields.io/badge/PRs-Welcome-fcba03" alt="PRs Welcome" />
 </p>
 Hey there! 👋
 
@@ -43,7 +43,7 @@ The Web Dashboard & API. This is the brain of the operation, where users manage 
 
 Laravel Inertia.js Vue.js
 
-⚡ durgarian/modramon-node
+⚡ Modramon/yggdrasil
 	
 
 The Discord Bot Client. This is the high-performance Node.js app that connects to Discord, listens for commands, and makes the magic happen.
