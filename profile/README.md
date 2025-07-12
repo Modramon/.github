@@ -1,5 +1,5 @@
 <p align="center">
-<img src="[https://www.google.com/search?q=https://raw.githubusercontent.com/user-attachments/assets/1922998a-40a2-4820-a612-e568fdc9d311/Modramon-Logo.png](https://raw.githubusercontent.com/Modramon/.github/refs/heads/main/modramon_smile.png)" alt="Modramon Logo" width="250"/>
+<img src="https://raw.githubusercontent.com/Modramon/.github/refs/heads/main/modramon_smile.png" alt="Modramon Logo" width="250"/>
 </p>
 
 <h1 align="center">Welcome to the Modramon Project</h1>
