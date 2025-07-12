@@ -1,53 +1,68 @@
-# Welcome to the Modramon Project! 🤖
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/user-attachments/assets/1922998a-40a2-4820-a612-e568fdc9d311/Modramon-Logo.png" alt="Modramon Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/Modramon/.github/main/modramon_smile.png" alt="Modramon Logo" width="250"/>
 </p>
 
+<h1 align="center">Welcome to the Modramon Project</h1>
+
 <p align="center">
-  <strong>The next generation of open-source Discord bots. Powerful, reliable, and always free.</strong>
+  Building a powerful, open-source Discord bot that puts community first.
   <br />
-  <a href="#"><strong>Explore the Roadmap</strong></a>
+  <br />
+  <a href="https://github.com/Modramon/yggdrasil/issues"><strong>Report a Bug</strong></a>
   ·
-  <a href="#"><strong>Report a Bug</strong></a>
+  <a href="https://github.com/Modramon/yggdrasil/issues"><strong>Request a Feature</strong></a>
   ·
-  <a href="#"><strong>Request a Feature</strong></a>
+  <a href="#"><strong>Join our Discord (Coming Soon)</strong></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Online-green?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" />
+  <img src="https://img.shields.io/badge/PRs-Welcome-yellow?style=for-the-badge" alt="PRs Welcome" />
 </p>
 
 ---
 
-## About The Project
+### Hey there! 👋
 
-**Modramon** is an ambitious open-source project to build a powerful, feature-rich, and highly customizable Discord bot as a superior alternative to pay-walled bots like MEE6. Our mission is to provide every server admin with the essential tools they need for moderation, engagement, and management, completely free of charge.
+We're building **Modramon**, the ultimate open-source alternative to overpriced and restrictive Discord bots. Our mission is to give server admins all the powerful tools they need for moderation, engagement, and management—**completely free, forever.**
 
-This organization hosts the two core components of the Modramon ecosystem: the web backend and the bot client.
-
-## Our Core Repositories
-
-| Repository | Description | Tech Stack |
-| :--- | :--- | :--- |
-|  durgarian/modramon-laravel | **The Web Dashboard & API.** The brain of the operation, where users will manage their server settings, view stats, and configure every aspect of the bot. | `Laravel` `Inertia.js` `Vue.js` `TailwindCSS` `MySQL`|
-| durgarian/modramon-node | **The Discord Bot Client.** The heart of the project, this is the Node.js application that connects to the Discord Gateway, listens for commands, and executes actions. | `Node.js` `Discord.js` `TypeScript` |
-
-## 🚀 Our Tech Stack
-
-We use a modern and robust tech stack to ensure Modramon is both powerful and maintainable:
-
-* **Backend (Dashboard & API):** [Laravel](https://laravel.com/) - For a powerful, secure, and scalable foundation.
-* **Frontend (Dashboard UI):** [Vue.js](https://vuejs.org/) with [Inertia.js](https://inertiajs.com/) & [Tailwind CSS](https://tailwindcss.com/) - For a seamless and beautiful single-page application experience.
-* **Bot Client (Discord Gateway):** [Node.js](https://nodejs.org/) with [Discord.js](https://discord.js.org/) - For high-performance, real-time interaction with the Discord API.
-
-## 🤝 Get Involved!
-
-We believe in the power of community and open-source collaboration. Whether you're a developer, a designer, or just a passionate Discord user, there are many ways to contribute!
-
-1.  **Check out the `roadmap.md`** in our core repositories to see what's planned.
-2.  **Fork a repository** and submit a pull request for a new feature or bug fix.
-3.  **Open an issue** to report bugs or suggest new ideas.
-4.  **Join our community Discord server** (link coming soon!) to chat with the developers and other contributors.
-
-Every contribution, no matter how small, helps us build a better bot for everyone.
+This organization is the central hub for the core services that power the bot.
 
 ---
 
-<p align="center">Made with ❤️ by the Modramon community.</p>
+### 🚀 Our Core Repositories
+
+| Repository                                                           | Description                                                                                                                                      | Tech Stack                      |
+| :------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------ |
+| 🤖 **[Modramon/yggdrasil](https://github.com/Modramon/yggdrasil)** | The **Brains**. This is the high-performance Laravel app that works together with Omegamon-X to perform the heavy duty stuff. It also hosts the Admin panel for a given server | `Laravel` `InertiaJS` `Vue`, `Tailwind` |
+| 🤖 **[Modramon/omegamon-x](https://github.com/Modramon/omegamon-x)** | The **Discord Bot Client**. This is the Node.js app that connects to Discord, listens for commands, and makes the magic happen with the help of Yggdrasil | `Node.js` `Discord.js` `TypeScript` |
+---
+
+### 🛠️ Tech Stack
+
+We use a modern, robust, and scalable tech stack to make Modramon awesome:
+
+<p align="center">
+  <a href="https://laravel.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
+  <a href="https://inertiajs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="inertia" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+</p>
+
+---
+
+### 🤝 How to Contribute
+
+We're building Modramon for the community, with the community. Contributions are what make the open-source world go 'round!
+
+1.  **Fork** one of the core repositories.
+2.  Create your **Feature Branch** (`git checkout -b feature/AmazingFeature`).
+3.  **Commit** your changes (`git commit -m 'Add some AmazingFeature'`).
+4.  **Push** to the branch (`git push origin feature/AmazingFeature`).
+5.  Open a **Pull Request**.
+
+We can't wait to see what you build with us!
